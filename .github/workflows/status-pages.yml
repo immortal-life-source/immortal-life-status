@@ -27,9 +27,9 @@ jobs:
         run: >-
           node check-public-availability.mjs
           --origin https://www.immortal.life
-          --attempts 2
-          --retry-delay-ms 3000
-          --timeout-ms 15000
+          --attempts 3
+          --retry-delay-ms 5000
+          --timeout-ms 20000
           --output uptime-report.json
       - name: Build status page
         if: always()
