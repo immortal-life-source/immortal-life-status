@@ -1,0 +1,300 @@
+{
+  "checked_at": "2026-10-07T03:06:14.520Z",
+  "origin": "https://www.immortal.life",
+  "status": "healthy",
+  "healthy": 9,
+  "total": 9,
+  "results": [
+    {
+      "name": "Homepage",
+      "path": "/",
+      "marker": {},
+      "url": "https://www.immortal.life/",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 430,
+          "bytes": 8555,
+          "vercel_cache": "MISS",
+          "source": "",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 430,
+        "bytes": 8555,
+        "vercel_cache": "MISS",
+        "source": "",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Topic dossier",
+      "path": "/topics/frailty",
+      "marker": {},
+      "url": "https://www.immortal.life/topics/frailty",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 622,
+          "bytes": 65996,
+          "vercel_cache": "MISS",
+          "source": "funding-prerender",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 622,
+        "bytes": 65996,
+        "vercel_cache": "MISS",
+        "source": "funding-prerender",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Universities",
+      "path": "/universities",
+      "marker": {},
+      "url": "https://www.immortal.life/universities",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 2224,
+          "bytes": 46186,
+          "vercel_cache": "MISS",
+          "source": "server-rendered",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 2224,
+        "bytes": 46186,
+        "vercel_cache": "MISS",
+        "source": "server-rendered",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Research",
+      "path": "/research",
+      "marker": {},
+      "url": "https://www.immortal.life/research",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 1885,
+          "bytes": 47249,
+          "vercel_cache": "MISS",
+          "source": "server-rendered",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 1885,
+        "bytes": 47249,
+        "vercel_cache": "MISS",
+        "source": "server-rendered",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Trials",
+      "path": "/trials",
+      "marker": {},
+      "url": "https://www.immortal.life/trials",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 1893,
+          "bytes": 46814,
+          "vercel_cache": "MISS",
+          "source": "server-rendered",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 1893,
+        "bytes": 46814,
+        "vercel_cache": "MISS",
+        "source": "server-rendered",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Funding",
+      "path": "/funding",
+      "marker": {},
+      "url": "https://www.immortal.life/funding",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 8737,
+          "bytes": 44595,
+          "vercel_cache": "MISS",
+          "source": "server-rendered",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 8737,
+        "bytes": 44595,
+        "vercel_cache": "MISS",
+        "source": "server-rendered",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Sitemap",
+      "path": "/sitemap.xml",
+      "marker": {},
+      "url": "https://www.immortal.life/sitemap.xml",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 1658,
+          "bytes": 1679,
+          "vercel_cache": "MISS",
+          "source": "",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 1658,
+        "bytes": 1679,
+        "vercel_cache": "MISS",
+        "source": "",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Institutional pilot",
+      "path": "/institutional-pilot",
+      "marker": {},
+      "url": "https://www.immortal.life/institutional-pilot",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 379,
+          "bytes": 16299,
+          "vercel_cache": "MISS",
+          "source": "",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 1,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 379,
+        "bytes": 16299,
+        "vercel_cache": "MISS",
+        "source": "",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    },
+    {
+      "name": "Pilot evidence data",
+      "path": "/api/intelligence?view=topic-dossier&topic=exercise&limit=12",
+      "marker": {},
+      "forbidden": {},
+      "url": "https://www.immortal.life/api/intelligence?view=topic-dossier&topic=exercise&limit=12",
+      "status": "healthy",
+      "history": [
+        {
+          "attempt": 1,
+          "status": "degraded",
+          "http_status": 200,
+          "duration_ms": 8990,
+          "bytes": 611,
+          "vercel_cache": "MISS",
+          "source": "",
+          "marker_found": true,
+          "forbidden_found": true
+        },
+        {
+          "attempt": 2,
+          "status": "healthy",
+          "http_status": 200,
+          "duration_ms": 4175,
+          "bytes": 216687,
+          "vercel_cache": "MISS",
+          "source": "",
+          "marker_found": true,
+          "forbidden_found": false
+        }
+      ],
+      "final": {
+        "attempt": 2,
+        "status": "healthy",
+        "http_status": 200,
+        "duration_ms": 4175,
+        "bytes": 216687,
+        "vercel_cache": "MISS",
+        "source": "",
+        "marker_found": true,
+        "forbidden_found": false
+      }
+    }
+  ]
+}
